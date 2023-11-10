@@ -1,0 +1,96 @@
+.header-styling {
+	 padding-bottom: 0.5rem;
+	
+}
+
+.header-styling a:link{
+	 text-decoration: none;
+}
+
+.header-styling a:visited {
+	 text-decoration: none;
+}
+
+.header-styling a:hover {
+	 color: #dbd02a;
+}
+
+.main-title {
+	 text-align: center;
+	 color: #cecece;
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 700;
+}
+
+#btn-fonts{
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 700;
+}
+
+.btn-categories {
+	 background-color: antiquewhite;
+	 border-color: rgb(189, 123, 75);
+	 color:rgb(68, 68, 68);
+	 font-weight: bolder;
+	 border-width: 0.2rem;
+}
+
+.style0{
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	border-radius: 0.8em;
+	background-color:#dbd02a;
+	margin:auto;
+	text-align: center;
+}
+
+.style1{
+	 padding : 0.15em;
+	 border-radius: 0.8em;
+	 background-color: #dbd02a;
+	 margin:auto;
+	 text-align: center;
+}
+
+.style2{
+	padding : 0.15em;
+	border-radius: 0.8em;
+	background-color: #dbd02a;
+	margin:auto;
+	text-align: center;
+}
+
+.style3{
+	padding : 0.15em;
+	border-radius: 0.8em;
+	background-color: #dbd02a;
+	margin: 0.1rem;
+	text-align: center;
+}
+
+.thumbnails {
+	 border-radius: 0.8em;
+	 width: 100%; 
+	 padding-bottom: 0.2rem; 
+}
+
+.thumbnails-modal {
+	 border-radius: 0.8em;
+	 width: 120%  
+}
+
+.modal-aspectratio{
+	 padding-top: 60%;
+   }
+
+#myButton{
+	 background-color: antiquewhite;
+	 border-color: rgb(189, 123, 75);
+	 color:rgb(68, 68, 68);
+	 font-weight: bolder;
+   }
+
+
